@@ -1,0 +1,139 @@
+#table{
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+    height: 25em;
+    width: 20em;
+    border: 2cm;
+    outline-color: black;
+    border-style: initial;
+    border-color: black;
+    outline: auto;
+    outline-offset: 0.2em;    
+}
+
+h3{
+    text-align: center;
+    font-size: x-large;
+    text-shadow: 1px 0 white, -1px 0 white, 0 1px white, 0 -1px white,
+    0.5px 1px white, -0.5px -0.5px white, 0.5px -0.5px white, -0.5px 0.5px white;
+}
+
+#cp{
+    text-align: center;
+    font-size: large;
+}
+
+.button-designs{
+    color: white;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+    1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+    text-align-last: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.lc{
+    background-color: lightcoral;
+}
+
+th{
+    color: white;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+    1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+    background-image: url(naruto.jpg);
+    background-size: cover;
+    height: 3em;
+    font-size: x-large;
+}
+
+#display{
+    color: white;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+    1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+    background-image: url(Sasuke1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 2.5em;
+    text-align-last: right;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    block-size: auto;
+    background-position: center;
+    background-image: url(itachi-crop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#minato{
+    
+    background-image: url(minato.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#iruka{
+    background-image: url(iruka.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#kakashi{
+    background-image: url(kakashi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mightguy{
+    background-image: url(mightguy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#gaara{
+    background-image: url(gaara.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#rocklee{
+    background-image: url(rocklee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hasirama{
+    background-image: url(hasirama.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#jiraya{
+    background-image: url(jiraya.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#madara{
+    background-image: url(madara.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#sasukenaruto{
+    background-image: url(sasukenaruto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#sakura{
+    background-image: url(sakura.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
